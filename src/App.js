@@ -6,6 +6,7 @@ const App = () => {
     return (
         <div className='ui container' style={{ marginIop: '20px' }}>
             <Counter />
+            <p>Naild it!</p>
         </div>
     );
 };
